@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-chroma
+streamlit
+tavily-python
+duckduckgo-search
+pypdf
+python-dotenv
+langchain-experimental

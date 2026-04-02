@@ -1,0 +1,8 @@
+Le RAG signifie Retrieval Augmented Generation.
+Il permet à un modèle de répondre à partir d'une base documentaire.
+Dans un RAG agentique, l'agent décide s'il doit récupérer du contexte ou non.
+LangChain permet de transformer un retriever en tool pour l'utiliser dans un agent.
+
+LangChain est une bibliothèque Python pour créer des applications basées sur les modèles de langage.
+Chapitre 2 : Les agents. Un agent est un système qui peut choisir dynamiquement quel outil utiliser pour répondre à une question.
+Auteurs mentionnés : Harrison Chase, Richard Vlasov.
